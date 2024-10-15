@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 ## 🛠️ Technologies & Tools
 
 - Languages: JavaScript, TypeScript, C#, Java, Python
-- Frameworks: React, NextJS, .NET, Spring
+- Frameworks: React, NextJS, Angular, .NET, Spring
 - Tools: Git, Gitlab, Github, ArgoCD, Rancher, Azure
 - Databases: PostgreSQL, Firebase, SQL Server
 
