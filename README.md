@@ -20,6 +20,12 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 
 - 👌 Doinfine [Website](https://doinfine.app) | [Github](https://github.com/hercobezuidenhout/doinfine.git)
 
+## Current Learning Progress
+
+I use [roadmap.sh](https://roadmap.sh) to track my upskilling and learning initiatives.
+
+[![roadmap.sh](https://roadmap.sh/card/tall/67c70c5e580201fc773ff8ac?variant=dark)](https://roadmap.sh)
+
 ## 🌍 Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/hercobezuidenhout)
