@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 
 ## 🙌 My Projects
 
-- 👌 Doinfine [Website](https://doinfine.app) | [Github](https://github.com/gitsocks/doinfine.git)
+- 👌 Doinfine [Website](https://doinfine.app) | [Github](https://github.com/hercobezuidenhout/doinfine.git)
 
 ## 🌍 Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/hercobezuidenhout)
-- [Twitter](https://twitter.com/gitsocks)
+- [Twitter](https://twitter.com/_herco)
 
 Thanks for stopping by! Feel free to check out my repositories.
