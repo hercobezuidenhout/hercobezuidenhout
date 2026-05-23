@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 ## 🚀 About Me
 
 - 🔭 I’m currently working for [Entelect](https://entelect.co.za).
-- 🌱 I’m currently learning about Java & Docker.
-- 💬 I have a project in production called [Doinfine](https://doinfine.app).
+- 🌱 I’m currently learning about Java, Docker, AWS and Kubernetes.
+- 💬 I have two projects in production called [Doinfine](https://doinfine.app) and [Teamtjie](https://teamtjie.co.za).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hercobezuidenhout/).
 
 ## 🛠️ Technologies & Tools
@@ -18,13 +18,8 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for buildin
 
 ## 🙌 My Projects
 
-- 👌 Doinfine [Website](https://doinfine.app) | [Github](https://github.com/hercobezuidenhout/doinfine.git)
-
-## Current Learning Progress
-
-I use [roadmap.sh](https://roadmap.sh) to track my upskilling and learning initiatives.
-
-[![roadmap.sh](https://roadmap.sh/card/tall/67c70c5e580201fc773ff8ac?variant=dark)](https://roadmap.sh)
+- 👌 Doinfine [Website](https://doinfine.app)
+- ❤️ Teamtjie [Website](https://teamtjie.co.za)
 
 ## 🌍 Find me around the web
 
